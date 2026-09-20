@@ -1,0 +1,9 @@
+{
+  "id": "spectre-cortex",
+  "name": "Spectre Cortex",
+  "version": "1.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "Spectre's living atlas of your thinking: drag to rotate, pinch to zoom, tap a node then tap again to open it. Colours derive from the vault's own top-level folders; recency comes from file timestamps, so it needs no git and no setup.",
+  "author": "Moe",
+  "isDesktopOnly": false
+}
